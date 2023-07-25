@@ -109,12 +109,6 @@ main {
     opacity: 0.6;
 }
 
-.selected-meal .selected-actions .selected-edit {
-    background-image: linear-gradient(to right, var(--pink), var(--purple));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
 .selected-meal .selected-actions .selected-delete {
     color: crimson;
 }
@@ -187,8 +181,4 @@ main {
     background-image: linear-gradient(to right, var(--pink), var(--purple));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
-
-.all-meal .actions .delete {
-    color: crimson;
 }
